@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+#cart{margin-top: 5rem!important;
+	padding-top: 10rem!important;
+	font-family: 'Raleway',sans-serif;
+	text-transform: uppercase;
+}
+.table-h hr{
+	background-color:  transparent!important;
+}
+.total{
+	box-sizing: border-box;
+
+	border-radius: 1rem;
+	color:#f4d03f;
+}

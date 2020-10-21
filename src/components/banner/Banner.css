@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@font-face {
+font-family: 'SEGA LOGO FONT';
+font-style: normal;
+font-weight: normal;
+src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+}
+.nav_bar{
+	background: rgb(99,99,96)!important;
+background: linear-gradient(159deg, rgba(99,99,96,1) 0%, rgba(47,47,47,1) 100%)!important;
+}
+.banner-1{height: calc(100vh + 56px);
+padding-top: 5rem;
+}
+.explore{
+	align-self: center;
+	color: #fff;
+	background-color: transparent;
+	text-transform: capitalize;
+	width: 10rem;
+	transition: 2s all;
+	font-family: 'Raleway', sans-serif!important;
+
+}
+.explore:hover{
+	background-color: #f4d03f;
+	border-color: transparent;
+}
+
+
+.title { font-family: 'SEGA LOGO FONT';
+font-weight:100;
+color: #ffcc00;
+text-shadow: 1px 2px 5px  #ff7c00; 
+
+}
+.welcome{
+	font-family: 'Raleway', sans-serif;
+}
+.light{
+animation-name: flash;
+animation-duration: 2.5s;
+
+animation-iteration-count: infinite;}
+
+@keyframes flash{
+	from{color:rgba(255,255,255,.5);
+		text-shadow:1px 5px 10px rgba(255,255,255,.5); }
+	to{color:#f4d03f;
+		text-shadow:1px 2px 5px  #ff7c00; }
+}
+.banner2{
+	
+		font-family: 'Raleway', sans-serif;
+}
+.banner_second{
+		font-family: 'Raleway',sans-serif;
+		height: 100vh;
+		margin-top: 10rem!important;
+}

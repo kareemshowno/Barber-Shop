@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+.cardd{
+	box-sizing: border-box;
+
+	font-family: 'Raleway', sans-serif;
+}
+.crd{
+	padding-bottom: 4em!important;
+	height: 10vh!important;
+	cursor: pointer;
+	box-sizing: border-box;
+	background-color: #f4d03f;
+
+}
+.card-footer{
+	height:  9vh;
+	background-color: rgba(0,0,0,.3);
+}
+.img_container{position: relative;
+  overflow: hidden!important;
+  cursor: pointer;
+  transition: all 1s ease-in-out}
+  .pro_img{transition: all 1s ease-in-out;
+  	overflow-x: hidden;}
+.pro_img:hover {transform: scale(1.2);}
+
+.store-item-icon{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	padding: 0.75rem;
+	background-color: rgba(255,255,255,.5);
+	border-top-left-radius: 1rem;
+	transition: all 1s ease-in-out; 
+transform: translate(100%,100%);
+}
+.img_container:hover .store-item-icon{	transform: translate(0,0);}
