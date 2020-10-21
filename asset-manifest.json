@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/barber-shop/static/css/main.a8959b2f.chunk.css",
+    "main.js": "/barber-shop/static/js/main.2e27c303.chunk.js",
+    "main.js.map": "/barber-shop/static/js/main.2e27c303.chunk.js.map",
+    "runtime-main.js": "/barber-shop/static/js/runtime-main.049b443f.js",
+    "runtime-main.js.map": "/barber-shop/static/js/runtime-main.049b443f.js.map",
+    "static/css/2.2a86faee.chunk.css": "/barber-shop/static/css/2.2a86faee.chunk.css",
+    "static/js/2.988bca96.chunk.js": "/barber-shop/static/js/2.988bca96.chunk.js",
+    "static/js/2.988bca96.chunk.js.map": "/barber-shop/static/js/2.988bca96.chunk.js.map",
+    "index.html": "/barber-shop/index.html",
+    "precache-manifest.d7632eb1d7900bfc21fe0a784760c92d.js": "/barber-shop/precache-manifest.d7632eb1d7900bfc21fe0a784760c92d.js",
+    "service-worker.js": "/barber-shop/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/barber-shop/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.a8959b2f.chunk.css.map": "/barber-shop/static/css/main.a8959b2f.chunk.css.map",
+    "static/js/2.988bca96.chunk.js.LICENSE.txt": "/barber-shop/static/js/2.988bca96.chunk.js.LICENSE.txt",
+    "static/media/Banner.css": "/barber-shop/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.049b443f.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.988bca96.chunk.js",
+    "static/css/main.a8959b2f.chunk.css",
+    "static/js/main.2e27c303.chunk.js"
+  ]
+}
